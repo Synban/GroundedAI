@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grounded-ai"
+version = "0.1.0"
+description = "Grounded question answering over a fixed course PDF corpus"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pypdf>=4.0",
+  "scikit-learn>=1.3",
+  "numpy>=1.24",
+  "joblib>=1.3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+grounded-ai = "grounded_ai.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["grounded_ai*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

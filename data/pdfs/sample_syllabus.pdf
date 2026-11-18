@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 831 >>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+16 TL
+(CS4320 Sample Course Syllabus) Tj
+T*
+() Tj
+T*
+(Instructor: Dr. Ada Example) Tj
+T*
+(Office hours: Tuesdays 2:00 PM to 3:00 PM in Room 204.) Tj
+T*
+() Tj
+T*
+(Grading policy:) Tj
+T*
+(Homework is worth 40 percent of the final grade.) Tj
+T*
+(The midterm exam is worth 25 percent.) Tj
+T*
+(The final project is worth 35 percent.) Tj
+T*
+() Tj
+T*
+(Late work policy:) Tj
+T*
+(Assignments may be submitted up to 48 hours late with a 10 percent penalty.) Tj
+T*
+(Work submitted more than 48 hours late receives no credit unless an extension was approved.) Tj
+T*
+() Tj
+T*
+(Project requirement:) Tj
+T*
+(Students must solve a clearly defined machine learning problem.) Tj
+T*
+(Kaggle competition submissions are not allowed for the course project.) Tj
+T*
+(Repositories must be reproducible and include evaluation.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001123 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1193
+%%EOF

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "question": "What percent of the grade is the final project worth?",
+    "label": "answerable",
+    "must_include": ["35 percent", "final project"]
+  },
+  {
+    "id": "q2",
+    "question": "How late can assignments be submitted with a penalty?",
+    "label": "answerable",
+    "must_include": ["48 hours", "10 percent"]
+  },
+  {
+    "id": "q3",
+    "question": "Are Kaggle competition submissions allowed for the course project?",
+    "label": "answerable",
+    "must_include": ["Kaggle", "not allowed"]
+  },
+  {
+    "id": "q4",
+    "question": "What is the Wi-Fi password for the classroom?",
+    "label": "unanswerable",
+    "must_include": []
+  },
+  {
+    "id": "q5",
+    "question": "When are Dr. Example's office hours?",
+    "label": "answerable",
+    "must_include": ["Tuesdays", "2:00 PM"]
+  }
+]
